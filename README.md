@@ -23,3 +23,7 @@ KEY INSIGHTS
 The mean area [sq meters] of houses in Brasil was 115.020224 and the median was 103.000000
 
 The mean price [USD] of houses in Brasil was 194987.315515 and the median was 165697.555000
+
+The prices of houses is skewed to the right(positively skewed) with most of the house prices falling between 100,000 and 300,000 us dollars
+
+The southern region has the most expensive properties in Brasil (averagely 209,000 us dollars).This aligns with the 2020 rank of regions with highest GDP in Brasil (verified)
