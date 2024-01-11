@@ -27,3 +27,7 @@ The mean price [USD] of houses in Brasil was 194987.315515 and the median was 16
 The prices of houses is skewed to the right(positively skewed) with most of the house prices falling between 100,000 and 300,000 us dollars
 
 The southern region has the most expensive properties in Brasil (averagely 209,000 us dollars).This aligns with the 2020 rank of regions with highest GDP in Brasil (verified)
+
+The state with the highest number of properties in brasil is Rio Grande do Sul with 2643 properties
+
+There is generally a moderate positive correlation between area [sq meters] and Prices [USD] of properties in the southern states of Brasil.
