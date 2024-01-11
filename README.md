@@ -3,7 +3,9 @@ DELIVERABLES
 
 
 1)Organize information using Basic python structures
+
 2)Determine if there are regional differences in the real- estate markets.
+
 3)Inspect Southern Brasil to see if there is  arelationship between home size and price.
 
 
